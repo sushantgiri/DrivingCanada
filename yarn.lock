@@ -8518,10 +8518,10 @@ react-native-debugger-open@^0.3.25:
     minimist "^1.2.0"
     semver "^5.4.1"
 
-react-native-flipper@0.159.0:
-  version "0.159.0"
-  resolved "https://registry.yarnpkg.com/react-native-flipper/-/react-native-flipper-0.159.0.tgz#f730467eb25f91ae21531ae03506391dc1db789b"
-  integrity sha512-7lFEpbv542q8Bf8qtkPeuq3ICr725F/DUKL1p30uVphT47FIgDpCOA9l/rBZk1/ExaI+BoooikLiz/d+Wthuxg==
+react-native-flipper@0.194.0:
+  version "0.194.0"
+  resolved "https://registry.yarnpkg.com/react-native-flipper/-/react-native-flipper-0.194.0.tgz#ad7986b6c2f03f82b1892d562394bfe7dd2b9e07"
+  integrity sha512-/iVlfLq5ym3z3YeXGb86NVcIGHZXRSm3js/eCgDaBqYnTHvb8g1NZe5x+dHpMc58kNs+Cj1ND4Oics8oO45Xtw==
 
 react-native-gesture-handler@2.5.0:
   version "2.5.0"
